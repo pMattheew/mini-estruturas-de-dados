@@ -1,47 +1,37 @@
-[![Itsy Bitsy Data Structures](https://cloud.githubusercontent.com/assets/952783/21579289/5754b03a-cf75-11e6-976c-f67a271aedaa.png)](itsy-bitsy-data-structures.js)
+[![Mini Estrutura de Dados](https://cloud.githubusercontent.com/assets/952783/21579289/5754b03a-cf75-11e6-976c-f67a271aedaa.png)](itsy-bitsy-data-structures.js)
 
-***Welcome to Itsy Bitsy Data Structures!***
+**_Bem-vindo a Mini Estrutura de Dados!_**
 
-In here are super simplified examples of many of the common data structures
-written in easy to read JavaScript.
+Aqui estão exemplos super simplificados de muitas das estruturas de dados comuns escritas em JavaScript de fácil compreensão.
 
-Reading through the guided code will help you learn about what data structures
-are, what their uses are, and how to discuss them.
+Ler o código guiado irá ajudá-lo a aprender sobre o que são estruturas de dados, para que elas são usadas e como discuti-las.
 
-### [Want to jump into the code? Click here](itsy-bitsy-data-structures.js)
+### [Quer pular para o código? Clique aqui](itsy-bitsy-data-structures.js)
 
-Also be sure to check out my other code walkthrough:
+Não deixe de conferir também minha outra explicação de código:
 [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
 
 ---
 
-### Why should I care?
+### Por que devo me importar?
 
-Data Structures might not be the juiciest topic in the world, but they are
-hugely important to growing as an engineer. Knowing data structures don't just
-make your programs faster and more efficient, but they help you organize your
-code and your thoughts so that you can build more complicated programs without
-a ton of mental overhead.
+Estruturas de dados podem não ser o tópico mais empolgante do mundo, mas são extremamente importantes para o crescimento como engenheiro. Saber sobre estruturas de dados não apenas torna seus programas mais rápidos e eficientes, mas também ajuda a organizar seu código e seus pensamentos, permitindo que você construa programas mais complexos sem sobrecarga mental excessiva.
 
-### But data structures are scary!
+### Mas estruturas de dados são assustadoras!
 
-Yeah, lots of computer science topics are intimidating, and that's largely a
-fault of how they are taught. In this we're going to do a high level pass over
-a lot of the key things you need to know in order to dive into them deeper.
-It's more about introducing you to the shared language of data structures.
+Sim, muitos tópicos de ciência da computação são intimidantes, e isso ocorre em grande parte devido à forma como são ensinados. Neste caso, faremos uma passagem de alto nível sobre muitas das coisas essenciais que você precisa saber para se aprofundar nelas. É mais uma introdução à linguagem compartilhada das estruturas de dados.
 
-### Okay so where do I begin?
+### Ok, por onde eu começo?
 
-Awesome! Head on over to the
-[itsy-bitsy-data-structures.js](itsy-bitsy-data-structures.js) file.
-
-### I'm back, that didn't make sense
-
-Ouch, I'm really sorry. I'm planning on doing a lot more work on this to add
-inline annotations. If you want to come back when that's done, you can either
-watch/star this repo or follow me on
-[twitter](https://twitter.com/thejameskyle) for updates.
+Ótimo! Vá em frente e acesse o arquivo
+[mini-estruturas-de-dados.js](mini-estruturas-de-dados.js).
 
 ---
 
 [![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+
+<div align="left">
+
+Traduzido para português brasileiro por [Patrick 😊](https://github.com/pmattheew)
+
+</div>

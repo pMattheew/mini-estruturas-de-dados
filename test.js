@@ -10,7 +10,7 @@ const {
   LinkedList,
   Tree,
   BinarySearchTree,
-} = require('./itsy-bitsy-data-structures');
+} = require('./mini-estruturas-de-dados');
 
 /**
  * ============================================================================

@@ -62,34 +62,38 @@
  *    ╚══════════╝    ╚════╝    ╚════╝  ╚═══════════════╝  ╚═════════════╝
  *
  * ══════════════════════════════════════════════════════════════════════
- * ████ By James Kyle (@thejameskyle) █████████████████████████████████████████
+ * ████ Por James Kyle (@thejameskyle) █████████████████████████████████████████
  * ══════════════════════════════════════════════════════════════════════
  */
 
+/** 
+ *  Okay, eu não vou traduzir essa ASCII art pois está incrível!
+ *  (E seria super difícil) - Patrick
+ */
+
 /**
- * Today we're gonna learn all about data structures.
+ * Hoje vamos aprender sobre estruturas de dados.
  *
- *    "OOooooOOOooh *soo* exciting" right?
+ *    "Ooooh *tão* empolgante", né?
  *
- * Yeah, they definitely aren't the juiciest topic out there, but they are
- * important. Not just to pass computer science 101, but in order to be a
- * better programmer.
+ * Sim, elas definitivamente não são o assunto mais interessante, mas são
+ * importantes. Não apenas para passar na disciplina de ciência da computação,
+ * mas para se tornar um programador melhor.
  *
- * Knowing your data structures can help you:
+ * Conhecer suas estruturas de dados pode ajudar você a:
  *
- *   - Manage complexity and make your programs easier to follow.
- *   - Build high-performance, memory-efficient programs.
+ *   - Gerenciar a complexidade e tornar seus programas mais fáceis de acompanhar.
+ *   - Construir programas de alto desempenho e eficientes em termos de memória.
  *
- * I believe that the former is more important. Using the right 
- * data structure can drastically simplify what would otherwise 
- * be complicated logic.
+ * Eu acredito que o primeiro ponto é mais importante. Usar a estrutura de dados correta
+ * pode simplificar drasticamente o que seria uma lógica complicada.
  *
- * The latter is important too. If performance or memory matters then
- * using the right data structure is more than often essential.
+ * O segundo ponto também é importante. Se o desempenho ou a memória são importantes, então
+ * usar a estrutura de dados correta é frequentemente essencial.
  *
- * In order to learn about data structures, we're going to implement a few of
- * them together. Don't worry, we'll keep the code nice and short. In fact,
- * there are way more comments than there is code.
+ * Para aprender sobre estruturas de dados, vamos implementar algumas delas juntos.
+ * Não se preocupe, vamos manter o código curto e claro. Na verdade,
+ * há muito mais comentários do que código.
  */
 
 /**
@@ -99,20 +103,20 @@
  */
 
 /**
- * What are data structures?
+ * O que são estruturas de dados?
  *
- * Essentially, they are different methods of storing and organizing data that
- * serve a number of different needs.
+ * Basicamente, são diferentes métodos de armazenar e organizar dados que
+ * atendem a diversas necessidades.
  *
- * Data can always be represented in many different ways. However, depending on
- * what that data is and what you need to do with it, one representation will
- * be a better choice than the others.
+ * Os dados podem sempre ser representados de várias maneiras diferentes. No entanto, 
+ * dependendo do tipo de dado e do que você precisa fazer com ele, uma representação será
+ * uma escolha melhor do que as outras.
  *
- * To understand why let's first talk a bit about algorithms.
+ * Para entender o motivo, vamos falar um pouco sobre algoritmos primeiro.
  */
 
 /*** ===================================================================== ***\
- ** - ALGORITHMS ---------------------------------------------------------- **
+ ** - ALGORITMOS ---------------------------------------------------------- **
  * ========================================================================= *
  *                                                                           *
  *                        ,--,--.    ,--,--.                                 *
